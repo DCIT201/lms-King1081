@@ -6,7 +6,8 @@ public class TempConverter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Welcome to the Temperature Scale Converter!");
+        // My dashboard
+        System.out.println("Welcome to my Temperature Scale Converter!");
         System.out.println("Choose an option:");
         System.out.println("1. Convert Celsius to Fahrenheit");
         System.out.println("2. Convert Fahrenheit to Celsius");
